@@ -1,3 +1,5 @@
 {
-  "showTasks": false
+  "showTasks": false,
+  "adminURL": "https://dpn-masternode-stg.uniultra.xyz",
+  "wsAdminURL": "wss://ws-masternode-stg.uniultra.xyz"
 }
