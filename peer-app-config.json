@@ -1,5 +1,5 @@
 {
   "showTasks": false,
-  "adminURL": "https://dpn-admin-svc.u2dpn.xyz",
-  "wsAdminURL": "wss://ws-dpn-admin-svc.u2dpn.xyz"
+  "adminURL": "https://dpn-admin.u2dpn.xyz",
+  "wsAdminURL": "wss://ws-dpn-admin.u2dpn.xyz"
 }
