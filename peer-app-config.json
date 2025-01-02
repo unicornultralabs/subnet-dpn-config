@@ -3,6 +3,7 @@
   "adminURL": "https://dpn-admin.u2dpn.xyz",
   "wsAdminURL": "wss://ws-dpn-admin.u2dpn.xyz",
   "notificationURL": "https://dpn-notification.u2dpn.xyz",
+  "wsPoint": "ws://54.151.209.182:8099",
   "wsPort": 8099,
   "wsHost": "127.0.0.1",
   "scanURL": "https://scan.u2dpn.xyz/"
