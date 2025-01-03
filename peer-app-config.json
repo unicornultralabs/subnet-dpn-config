@@ -6,5 +6,6 @@
   "wsPoint": "ws://54.151.209.182:8099",
   "wsPort": 8099,
   "wsHost": "127.0.0.1",
+  "maintainOnlineSession": 30,
   "scanURL": "https://scan.u2dpn.xyz/"
 }
