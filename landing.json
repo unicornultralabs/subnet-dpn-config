@@ -1,0 +1,29 @@
+{
+  "socialURL": {
+    "x": "https://x.com/u2dpn_network",
+    "telegram": "https://t.me/u2dpncommunity",
+    "youtube": "https://www.youtube.com/@u2u_network"
+  },
+  "platforms":{
+    "android": {
+      "name": "Android",
+      "downloadUrl": "https://play.google.com/store/apps/details?id=com.uniultra.u2udpn"
+    },
+    "ios": {
+      "name": "iOS",
+      "downloadUrl": "https://apps.apple.com/app/u2dpn/id6478145991"
+    },
+    "windows": {
+      "name": "Windows",
+      "downloadUrl": ""
+    },
+    "macos": {
+      "name": "macOS",
+      "downloadUrl": ""
+    },
+    "linux": {
+      "name": "Linux",
+      "downloadUrl": ""
+    }
+  }
+}
