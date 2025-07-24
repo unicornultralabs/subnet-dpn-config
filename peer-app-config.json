@@ -9,6 +9,7 @@
   "wsPort": 8099,
   "wsHost": "127.0.0.1",
   "scanURL": "https://scan.u2dpn.xyz/",
+  "deleteAccountFormURL": "https://docs.google.com/forms/d/e/1FAIpQLSe-S5VYRZEf8WoOZI5yrDWt1N73JkDMLPDoR1uI60c1oTYtnA",
   "taskConfig": {
     "daily": true,
     "onetime": true,
