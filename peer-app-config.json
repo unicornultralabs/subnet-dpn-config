@@ -1,6 +1,6 @@
 {
   "showTasks": true,
-  "iosShowTasks": true,
+  "iosShowTasks": false,
   "androidShowTasks": false,
   "adminURL": "https://dpn-admin.u2dpn.xyz",
   "wsAdminURL": "wss://ws-dpn-admin.u2dpn.xyz",
