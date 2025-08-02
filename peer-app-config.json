@@ -2,6 +2,7 @@
   "showTasks": true,
   "iosShowTasks": true,
   "androidShowTasks": true,
+  "windowsVersion": "1.4.1.0",
   "adminURL": "https://dpn-admin.u2dpn.xyz",
   "wsAdminURL": "wss://ws-dpn-admin.u2dpn.xyz",
   "notificationURL": "https://dpn-notification.u2dpn.xyz",
