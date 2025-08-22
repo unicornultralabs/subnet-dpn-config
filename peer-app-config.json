@@ -14,7 +14,8 @@
   "taskConfig": {
     "daily": true,
     "onetime": true,
-    "event": true
+    "event": true,
+    "partner": true
   },
   "socialURL": {
     "x": "https://x.com/u2dpn_network",
